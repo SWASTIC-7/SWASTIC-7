@@ -3,7 +3,7 @@
 > loading personality modules...
 
 $ whoami  
-  → Swastic Keshari  
+  → Swastic Keshari
   → Undergraduate @ IIT Roorkee  
   → Exploring the world through the internet  
 
@@ -15,4 +15,4 @@ $ interest --list
   → rust, systems, optimization, web3
 ```
 
-**Sometimes I code, sometimes trying to figure out what to do next -- But always learning...**
+**Sometimes I work, sometimes I’m figuring out what to do next — but always learning.**
