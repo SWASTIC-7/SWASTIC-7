@@ -4,7 +4,7 @@
 
 $ whoami  
   → Swastic Keshari
-  → Undergraduate @ IIT Roorkee  
+  → Undergrad @ IIT Roorkee  
   → Exploring the world through the internet  
 
   -> Rust and Coffee is an amazing combination for me.
