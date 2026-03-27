@@ -12,7 +12,7 @@ $ whoami
   -> only Commit when I know it's right.
 
 $ interest --list  
-  → rust, low-level systems, optimization, blockchain, computational neuroscience
+  → rust, low-level systems, optimization, GPUs, NNs
 ```
 
 **Sometimes I work, sometimes I’m figuring out what to do next — but always learning.**
